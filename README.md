@@ -1,3 +1,3 @@
-# CIS 41A: Lab3
+# CIS 41A
 
-Convert regular numbers into Roman Numerals
+
